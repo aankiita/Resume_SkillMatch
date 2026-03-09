@@ -59,7 +59,7 @@ Shows:
 ---
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/Resume_SkillMatch.git
+git clone https://github.com/aankiita/Resume_SkillMatch.git
 cd Resume_SkillMatch
 2️⃣ Install Dependencies
 pip install -r requirements.txt
